@@ -1,0 +1,6 @@
+*.swp
+*.o
+*.raw
+main
+inject
+hack
